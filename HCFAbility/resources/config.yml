@@ -1,0 +1,7 @@
+# set the Cooldown the type of enchanted and the effects and seconds of the effects!
+
+# cooldown
+cooldown.speed: "30"
+
+#effect time
+effect.speed: 

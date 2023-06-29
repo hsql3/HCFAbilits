@@ -1,0 +1,5 @@
+# configures the messages that have the PartnerItems 
+Speed:
+  cooldown: "&eDo you have cooldown from &d{cooldown}"
+  used: "&eHave you used the item &dSpeed"
+  used2: "&eYou have acquired a cooldown of &d30s"

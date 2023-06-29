@@ -1,0 +1,8 @@
+# configure the items from this file!
+# id you can see the ids of the items
+Speed:
+  name: "&l&aSpeed II"
+  id: ""
+  lore: 
+  - "&7Use Right To Use PartnerItem"
+  - "store.centilemc.com"

@@ -1,0 +1,10 @@
+name: HCFAbility
+api: [5.0.0]
+author: ["Iranzz"]
+version: 1.0.0
+main: hcf\HCFAbility
+
+permissions:
+  items.command:
+    default: op
+    description: by Iranzz
